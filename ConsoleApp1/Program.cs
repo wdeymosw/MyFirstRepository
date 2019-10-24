@@ -15,6 +15,8 @@ namespace ConsoleApp1
             var sumApple = Apple.add(apple, apple2);
 
             Console.WriteLine("Хело ворда!!!");
+            Console.ReadLine();
+        
         }
 
        
