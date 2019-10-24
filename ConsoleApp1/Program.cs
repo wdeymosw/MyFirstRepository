@@ -13,6 +13,8 @@ namespace ConsoleApp1
             Apple apple = new Apple("Красное яблоко", 100, 100);
             Apple apple2 = new Apple("Красное яблоко", 90, 100);
             var sumApple = Apple.add(apple, apple2);
+
+            Console.WriteLine("Хело ворда!!!");
         }
 
        
