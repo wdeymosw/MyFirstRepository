@@ -16,7 +16,9 @@ namespace ConsoleApp1
 
             Console.WriteLine("Хело ворда!!!");
             Console.ReadLine();
-        
+            Console.WriteLine("Еще одна строка изменение 2");
+            Console.ReadLine();
+
         }
 
        
